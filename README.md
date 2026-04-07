@@ -38,10 +38,10 @@ caracterizo por mi constante auto-formación, creatividad, trabajo en equipo y a
 ## Proyectos
 
 
+
 | Proyecto 1 | Proyecto 2 | Proyecto 3 |
 | :---: | :---: | :---: |
-| [![Football Legends](https://placeholder.com)](https://www.futbolegends.com/) | [![Lehretech](https://placeholder.com)](https://www.lehretech.com/) | [![Biblioteams](https://placeholder.com)](https://github.com/usuario/proyecto3) |
-
+| [![Football Legends](https://placeholder.com)](https://www.futbolegends.com/) | [![Lehretech](https://placeholder.com)](https://www.lehretech.com/) | [![Biblioteams](https://placeholder.com)](https://biblioteams-2.vercel.app/) |
 
 </div>
 
